@@ -1,2 +1,5 @@
 #!/bin/bash
 printenv
+[master f415739] Global variables
+ 1 file changed, 2 insertions(+)
+ create mode 100755 4-global_variables
