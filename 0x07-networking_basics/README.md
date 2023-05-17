@@ -7,7 +7,7 @@ and MAC address, port and localhost. Then undertanding how the
 internet works and how test the network connectivity. You are ready for
 the adventure, we take off in a few ...
 
-[Networking](https://img.freepik.com/vecteurs-libre/concept-systeme-reseau-mondial_8130-705.jpg)
+![Networking](https://img.freepik.com/vecteurs-libre/concept-systeme-reseau-mondial_8130-705.jpg)
 
 Tasks
 -----
