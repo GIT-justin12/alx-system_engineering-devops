@@ -12,8 +12,8 @@ Resources
 - [Exercices on Regex](https://regexone.com/)
 - [Site of Rubular](https://rubular.com/)
 
-Task
-----
+Tasks
+-----
 ### Mandatory tasks
 #### Task 0
 - Name: Simply matching School
